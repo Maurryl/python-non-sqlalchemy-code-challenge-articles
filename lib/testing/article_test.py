@@ -5,6 +5,8 @@ from classes.many_to_many import Magazine
 from classes.many_to_many import Author
 
 
+
+
 class TestArticle:
     """Article in many_to_many.py"""
 
